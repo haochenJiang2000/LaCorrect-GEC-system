@@ -1,0 +1,46 @@
+.sidebar_top {
+    width: 100%;
+    background: #FFFFFF;
+    height: 80px;
+    color: #333333;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 25;
+    font-size: 20px;
+    text-align: center;
+}
+
+.blue_text {
+    color: #134857;
+    font-weight: 1000;
+    background: #e5edf0;
+    float: left;
+    font-size: 15px;
+}
+
+.normal_text {
+    color: #000;
+    float: left;
+    font-size: 15px;
+}
+
+.delete_text {
+    color: #7a7374;
+    background: #fdf7f8;
+    float: left;
+    text-decoration: line-through;
+    text-decoration-color: #e50000;
+    text-decoration-thickness: 2px;
+    font-size: 15px;
+}
+
+.white_text {
+    color: white;
+    float: left;
+    font-size: 15px;
+}

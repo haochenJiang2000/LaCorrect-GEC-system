@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: pdfparser
+Version: alpha-1.0.0
+Summary: Open source Python library converting pdf to docx.
+License: GPL v3
+Keywords: pdf-parser,pdf-to-text
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+1. PDFParser文本提取部分主要参考开源项目 [pdf2docx](https://github.com/dothinking/pdf2docx) 进行部分调整, 基于 `PyMuPDF` 工具进行PDF文本解析
+2. 模块安装
+```
+    python setup.py install
+``` 
+3. 模块调用, 参考 `example.py` 文件
+```
+    python example.py
+```
+

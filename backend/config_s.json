@@ -1,0 +1,10 @@
+{
+  "port": 18888,
+  "password": "jhc_15995960350",
+  "path": "/websocket_path",
+  "log_file": "/data/hcjiang/backend/nt.log",
+  "admin": {
+    "enable": true,  
+    "admin_password": "jhc_15995960350"  
+  }
+}

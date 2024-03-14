@@ -1,0 +1,2 @@
+2023-04-04 20:53:37,698  logger INFO /data/hcjiang/miniconda3/envs/backend/lib/python3.8/site-packages/proxynt/run_server.py main 117 : static_path: /data/hcjiang/miniconda3/envs/backend/lib/python3.8/site-packages/proxynt/server/template
+2023-04-04 20:53:37,700  logger INFO /data/hcjiang/miniconda3/envs/backend/lib/python3.8/site-packages/proxynt/run_server.py main 130 : start server at port 18888, websocket_path: /websocket_path, admin_path: /websocket_path/admin

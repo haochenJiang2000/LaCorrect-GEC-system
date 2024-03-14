@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "思源黑体 Light";
+  font-weight: 300;
+  src: url("//at.alicdn.com/wf/webfont/AQwf6PCuqdxW/YstCNinbr6vJ.woff2") format("woff2"),
+  url("//at.alicdn.com/wf/webfont/AQwf6PCuqdxW/HppDI8LUtehv.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "阿里巴巴普惠体 2.0 45 Light";font-weight: 300;src: url("//at.alicdn.com/wf/webfont/AQwf6PCuqdxW/Exs0GRzWZeFK.woff2") format("woff2"),
+  url("//at.alicdn.com/wf/webfont/AQwf6PCuqdxW/VUiERVQDIxgS.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "阿里巴巴普惠体 2.0 55 Regular";font-weight: 400;src: url("//at.alicdn.com/wf/webfont/AQwf6PCuqdxW/QifzlHg39PDW.woff2") format("woff2"),
+  url("//at.alicdn.com/wf/webfont/AQwf6PCuqdxW/W56xFRvcw0qc.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "阿里巴巴普惠体 2.0 65 Medium";font-weight: 500;src: url("//at.alicdn.com/wf/webfont/AQwf6PCuqdxW/KLPtuWoC2rza.woff2") format("woff2"),
+  url("//at.alicdn.com/wf/webfont/AQwf6PCuqdxW/wS0vadGEquKq.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "思源黑体 Regular";font-weight: 400;src: url("//at.alicdn.com/wf/webfont/AQwf6PCuqdxW/NPOcCKBugQFo.woff2") format("woff2"),
+  url("//at.alicdn.com/wf/webfont/AQwf6PCuqdxW/7bSBXfQbcB4a.woff") format("woff");
+  font-display: swap;
+}

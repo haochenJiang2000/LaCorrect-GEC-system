@@ -1,0 +1,41 @@
+{
+  "name": "gec-demo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.0.10",
+    "axios": "^1.3.2",
+    "core-js": "^3.8.3",
+    "element-plus": "^2.2.29",
+    "jsencrypt": "^3.3.2",
+    "vue": "^3.2.13",
+    "vue-class-component": "^8.0.0-0",
+    "vue-clipboard2": "^0.3.3",
+    "vue-clipboard3": "^2.0.0",
+    "vue-router": "^4.1.6",
+    "vuex": "^4.0.2",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-typescript": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "babel-plugin-component": "^1.1.1",
+    "compression-webpack-plugin": "^10.0.0",
+    "ts-loader": "^9.4.2",
+    "typescript": "^4.9.5",
+    "unplugin-auto-import": "^0.15.2",
+    "unplugin-vue-components": "^0.24.1",
+    "vue-cli-plugin-element": "^1.0.1"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}

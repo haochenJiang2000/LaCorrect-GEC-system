@@ -1,0 +1,16 @@
+allennlp
+flask
+flask_cors
+overrides==3.1.0
+flask_caching
+PyMuPDF>=1.19.0
+python-docx>=0.8.10
+fonttools>=4.24.0
+numpy>=1.17.2
+opencv-python>=4.5
+fire>=0.3.0
+ltp==4.1.3.post1
+OpenCC
+python-Levenshtein==0.12.1
+pypinyin
+tqdm
